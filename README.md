@@ -1,2 +1,2 @@
-# projet-Info-shs
-SERIES DE DEFIES N1
+# projet-Info-shs/IA
+SERIES DE DEFIS N1
